@@ -27,14 +27,14 @@ git clone https://github.com/delgado-sam/React-Client-Management-App.git
 cd React-Client-Management-App
 ```
 
-# Install dependencies for the client
+### Install dependencies for the client
 
 ```bash
 cd client
 npm install
 ```
 
-# Install dependencies for the server
+### Install dependencies for the server
 
 ```bash
 cd ../server
@@ -45,13 +45,13 @@ npm install
 
 You can use the root package.json to run both client and server concurrently.
 
-# 1. In the root directory, start the client and server
+### 1. In the root directory, start the client and server
 
 ```bash
 npm run dev
 ```
 
-# 2. Runs the app in the development mode
+### 2. Runs the app in the development mode
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -61,7 +61,7 @@ You may also see any lint errors in the console.
 
 ## Testing
 
-# Run tests for the client
+### Run tests for the client
 
 ```bash
 cd client
